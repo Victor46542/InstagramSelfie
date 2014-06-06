@@ -33,7 +33,7 @@
 
 feed = new Instafeed({
    get: 'tagged',
-        tagName: 'vermeer',
+        tagName: 'slefie',
         accessToken: '141970.467ede5.edbc9c37472d41b790e1db8948793f11',
         sortby: 'random',
         resolution: 'standard_resolution',
